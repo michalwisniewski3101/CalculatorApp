@@ -1,0 +1,2 @@
+C:\Users\micha\source\repos\KalkulatorApp\KalkulatorApp\bin\Release\net8.0-windows\publish\KalkulatorApp.pdb
+C:\Users\micha\source\repos\KalkulatorApp\KalkulatorApp\bin\Release\net8.0-windows\publish\KalkulatorApp.exe
